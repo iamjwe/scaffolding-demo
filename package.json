@@ -1,0 +1,19 @@
+{
+  "name": "scaffolding-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "cli1": "cli1.js",
+    "cli2": "cli2.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.7.4",
+    "inquirer": "^7.0.0"
+  }
+}
